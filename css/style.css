@@ -1,0 +1,16 @@
+body {
+	background: #00faac;
+}
+.tt {
+	color:#ff3796;
+	font-family: algerian;
+	text-align: center;
+	font-size: 50px;
+}
+.txM {
+	text-align: right;
+	border: 2px #302387 solid;
+}
+.txm {
+	border: 2px #302387 solid;
+}
