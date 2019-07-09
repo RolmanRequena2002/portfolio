@@ -1,5 +1,11 @@
 body {
-	background: #00faac;
+	background: #303841;
+}
+.bd {
+	background: #ff5722;
+}
+.bbd{
+	background: #00adb5;
 }
 .tt {
 	color:#ff3796;
@@ -9,8 +15,12 @@ body {
 }
 .txM {
 	text-align: right;
-	border: 2px #302387 solid;
+	color: #ff3796;
 }
 .txm {
-	border: 2px #302387 solid;
+
+}
+.pq {
+	right: 300px;
+	height: 300px;
 }
