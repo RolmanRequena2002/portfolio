@@ -8,19 +8,50 @@ body {
 	background: #00adb5;
 }
 .tt {
-	color:#ff3796;
+	color:#ffffff;
 	font-family: algerian;
 	text-align: center;
 	font-size: 50px;
 }
 .txM {
 	text-align: right;
-	color: #ff3796;
+	color: #ffffff;
+	font-family: algerian;
 }
 .txm {
+	font-family: algerian;
+	color: black;
 
 }
-.pq {
+.pqt {
 	right: 300px;
 	height: 300px;
+	text-align: center;
+	margin: auto;
+	display: block;
+}
+.pq {
+	right: 250px;
+	height: 250px;
+	text-align: center;
+	margin: auto;
+	display: block;
+}
+.pt {
+	text-align: center;
+	font-family: aharoni;
+	color: brown;
+}
+.rs {
+	height: 100px;
+	width: 100px;
+	text-align: center;
+	display: block;
+	margin: auto;
+}
+hr, .hrcolor {
+   height: 3px;
+   border: 0;
+   color: #303841;
+   background-color: #303841;
 }
