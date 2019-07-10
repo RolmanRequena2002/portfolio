@@ -1,25 +1,29 @@
 body {
 	background: #303841;
+	margin: 0 !important;
+	padding: 0 !important;
 }
 .bd {
-	background: #ff5722;
+	background: #53c0a2;
+	margin: 0 !important;
 }
 .bbd{
-	background: #00adb5;
+	background: #b5f7e6;
+	margin: 0 !important;
 }
 .tt {
 	color:#ffffff;
-	font-family: algerian;
+	font-family: elephant;
 	text-align: center;
 	font-size: 50px;
 }
 .txM {
 	text-align: right;
 	color: #ffffff;
-	font-family: algerian;
+	font-family: arial black;
 }
 .txm {
-	font-family: algerian;
+	font-family: arial;
 	color: black;
 
 }
@@ -31,8 +35,8 @@ body {
 	display: block;
 }
 .pq {
-	right: 250px;
-	height: 250px;
+	right: 220px;
+	height: 220px;
 	text-align: center;
 	margin: auto;
 	display: block;
@@ -43,8 +47,8 @@ body {
 	color: brown;
 }
 .rs {
-	height: 100px;
-	width: 100px;
+	height: 50px;
+	width: 50px;
 	text-align: center;
 	display: block;
 	margin: auto;
